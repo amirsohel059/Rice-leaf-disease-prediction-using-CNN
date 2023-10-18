@@ -38,7 +38,7 @@ Based on the project's findings:
 
 - The initial model exhibited overfitting issues.
 - With training, the model started to generalize better after introducing dropout layers.
-- The final model achieved an accuracy of approximately 90.91% on the test dataset and 87.5% on the training dataset.
+- The final model achieved an accuracy of approximately 90.91% on the training dataset and 87.5% on the test dataset.
 - Further improvements can be achieved by fine-tuning hyperparameters, exploring different architectures, and leveraging advanced techniques like transfer learning.
 
 ## Conclusion
